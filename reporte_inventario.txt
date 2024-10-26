@@ -1,0 +1,6 @@
+Reporte de Inventario
+
+ID Inventario: 4
+Producto Código: 1
+Cantidad: 111141
+
